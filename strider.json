@@ -1,0 +1,5 @@
+{
+  "prepare": "echo PREPAREDIT",
+  "test": "echo TESTEDIT",
+  "deploy": "echo DEPLOYEDIT"
+}
